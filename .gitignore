@@ -130,3 +130,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+firstApiApp/migrations/
+PractiseProject/__pycache__/
+.idea
+__pycache__
+db.sqlite3
